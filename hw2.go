@@ -53,4 +53,3 @@ func main() {
 	a.time = "MTWTH 03:00-03:50"
 	Comments(a)
 }
-g
