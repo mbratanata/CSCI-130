@@ -34,5 +34,4 @@ func main() {
 
 	fmt.Println(intro.language)
 	fmt.Println(intro.compiler) // you can't combine the intro.language and intro.compiler in one single fmt.Println
-
 }
