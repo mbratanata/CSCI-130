@@ -1,4 +1,4 @@
-// hw3 project main.go
+// hw3 project main.g
 package main
 
 import "fmt"
