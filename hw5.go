@@ -55,10 +55,10 @@ func main() {
 
 	fmt.Println()
 
-	var input stringMethod = "Hi"
+	var input stringMethod = "Hi" //methods attached to a string
 	input.tryThisStringMethod()
 
 	fmt.Println()
 
-	fmt.Println(message.teacherWithReturn())
+	fmt.Println(message.teacherWithReturn()) //methods with returns
 }
